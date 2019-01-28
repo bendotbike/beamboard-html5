@@ -1,0 +1,11 @@
+#page-content {
+    margin: 10px;
+}
+
+#no-webstorage-alert {
+    display: none;    
+}
+
+#scoreboard {
+    display: block;
+}
